@@ -1,5 +1,4 @@
-# JavaScript Array Methods Activity
-
+# JavaScript Basics Hangman App
 Activiy should be done in groups, size 2-4. 
 
 ## Activity 1 - Hangman
